@@ -1,4 +1,7 @@
 MARKET STRATIGIES BOT 
+
+
+
 That helps the Marketing teams for use more efficent for creating the Most efficient Market Stratiges for the Customer to boost their efficency.
 They Foucesd on the 
    1. Marketing Goals
