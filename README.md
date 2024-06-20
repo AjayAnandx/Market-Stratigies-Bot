@@ -8,4 +8,5 @@ They Foucesd on the
    5. Market Reasearch
 
 To run the Bot
-Quantum.py
+
+Python Quantum.py
