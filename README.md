@@ -10,6 +10,25 @@ They Foucesd on the
    4. Tailor Fit for different Industry
    5. Market Reasearch
 
-To run the Bot
 
-Python Quantum.py
+MODULE USED 
+
+To Install the Speech to Text:
+
+               pip install Pyttsx
+
+To Install the Text to Speech:
+
+               Pip install speech-recognition
+
+To Install Groq 
+
+               Pip install Groq
+
+To Install the Tinker:
+
+               pip install tinker
+
+To run the Bot:
+
+               Python Quantum.py
