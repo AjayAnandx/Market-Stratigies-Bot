@@ -6,3 +6,6 @@ They Foucesd on the
    3. Budget Driven Stratiges 
    4. Tailor Fit for different Industry
    5. Market Reasearch
+
+To run the Bot
+Quantum.py
